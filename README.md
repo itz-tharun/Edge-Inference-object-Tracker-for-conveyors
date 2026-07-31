@@ -426,32 +426,4 @@ Robust Learning-Free Gating for Edge Vision` (Premkumar & Raju, Chennai
 Institute of Technology). This repository is the code and data behind
 that paper; the paper is the authoritative source for citations.
 
-## Images
 
-This repository currently has no images checked in beyond
-`program-files-and-results/results/figures/cropped_vs_uncropped_full_table.png`
-(status flagged in that folder's README — confirm it's the real result
-before treating it as final). Recommended additions, in priority order:
-
-1. **Hero image** — the two-stage pipeline in a single illustrative frame:
-   a tracked object with its bounding box, suspicion score, and an
-   invoke/no-invoke indicator.
-2. **Architecture diagram** — the Stage 1 → Stage 2 → invoke/no-invoke flow
-   described under System Architecture above; this is the single most
-   useful image for a reader deciding whether to dig into the code.
-3. **Hardware setup photo** — the camera, target object, and Raspberry Pi
-   5 as actually arranged during recording, since several results (e.g.
-   the crossing scenario's occlusion events) are easier to interpret with
-   the physical setup in view.
-4. **Results charts** — the threshold-sensitivity and weight-sweep figures
-   from the paper (Figures 2 and 3), since they're the visual evidence for
-   the stability claim that is this project's main contribution.
-5. **Testing GIF** — a short clip of `FINALTRACKING.py` or
-   `drift_classify_pipeline.py` running against live/recorded footage,
-   showing the bounding box, label, and invocation indicator changing in
-   real time.
-
----
-
-*Engineering begins by understanding where a system fails. Technology is
-selected to solve the problem — not the other way around.*
