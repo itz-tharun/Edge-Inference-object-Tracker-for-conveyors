@@ -1,0 +1,5 @@
+--- Comparison (crossing pen test) ---
+System                 | Frames | Invocations | Rate
+Always-classify        | 1425   | 1316        | 92.35%
+Fixed-interval (N=30)  | 1679   | 65          | 3.87%
+Drift-triggered (ours) | 1718   | 14          | 0.81%

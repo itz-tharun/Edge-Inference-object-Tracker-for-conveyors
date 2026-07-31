@@ -1,0 +1,104 @@
+========================================================================
+EXPERIMENT LOG: DYNAMIC SCENARIO (MOVING PEN EXPERIMENT) — VERIFIED
+========================================================================
+TEST: Moving pen (paper-pull method, single object, slow continuous motion)
+SYSTEM: All three pipelines (Always-Classify, Fixed-Interval, Drift-Triggered)
+DATE: 2026-07-16 (original recording) / verified 2026-07-20
+
+NOTE: A previous draft of this document (moving_test.txt) contained
+frame counts, invocation counts, and a narrative that do NOT match the
+actual suspicion_log CSVs for this test. That draft has been discarded.
+The numbers below are directly verified against the raw CSV files:
+drift_classify_suspicion_log_moving.csv,
+suspicion_log_always_classify_moving.csv,
+suspicion_log_fixed_interval_moving.csv.
+
+--- Verified console/CSV summary ---
+System                 | Total Frames | Invocations | Invocation Rate
+------------------------------------------------------------------------
+Always-Classify        | 1057         | 1057        | 100.00%
+Fixed-Interval (N=30)  | 880          | 30          | 3.41%
+Drift-Triggered (Ours) | 1154         | 1           | 0.09%
+
+--- Setup notes ---
+Camera: built-in laptop camera
+Motion method: single pen placed on a paper sheet, paper pulled slowly
+               and continuously (gradual motion, not discrete stepped
+               pulls) to simulate smooth conveyor-style translation.
+Lighting/background: same as static test (Test A).
+Fix applied before the drift-triggered run: single dedicated worker
+thread + queue for model.predict() calls, plus model warm-up call
+before the timed loop (resolves an earlier TF/Keras threading-
+fragility issue that caused inference stalls in an early attempt).
+
+--- Observations (verified from suspicion_log CSV) ---
+Always-Classify: every single frame produced an invocation, as expected
+for this baseline (invocation count == frame count).
+
+Fixed-Interval: 30 invocations across 880 frames matches the expected
+~29-30 scheduled checkpoints at N=30 (880/30 ≈ 29.3), confirming the
+timer fired on schedule throughout.
+
+Drift-Triggered: object 0 (the pen) was tracked continuously from
+frame 41 to frame 1154 (near-total coverage, no fragmentation or
+re-identification). Exactly ONE invocation occurred, at frame 41 —
+the initial classification. The suspicion score never crossed
+DRIFT_THRESHOLD (0.4) for the remainder of the test; appearance_drift
+stayed low and tracking_drift, while non-zero, never combined to
+exceed the trigger threshold.
+
+--- Honest interpretation ---
+This result should NOT be read as "the drift-triggered system ignored
+motion." Rather, it demonstrates a specific, real property of the
+mechanism: SLOW, CONTINUOUS motion produces gradual per-frame change
+that never accumulates past the trigger threshold in any single frame,
+so the system correctly judges that no re-verification is warranted.
+This is distinct from Test C (crossing/occlusion), which involves
+abrupt, discontinuous appearance/position change and DOES produce
+clear reclassification triggers (see Test C results).
+
+The appropriate claim for this test is: "under smooth, continuous
+single-object motion, the drift-triggered system maintains a single
+initial classification without unnecessary re-invocation, in contrast
+to always-classify (100% invocation rate) and fixed-interval (3.41%,
+timer-driven regardless of actual state)." This is a genuine efficiency
+finding, but it is a DIFFERENT claim than "the system detects and
+responds to motion events" — that claim is better supported by Test C.
+
+--- What this test does NOT show ---
+- Does not demonstrate proactive/anticipatory triggering (unlike the
+  Test C crossing-event analysis, which showed a trigger firing
+  BEFORE the marked ground-truth event in one of three cases).
+- Does not involve multiple objects (that is Test D, verified
+  separately, which does show 7 invocations across object insertion
+  and drift events).
+- Frame counts differ across the three systems (1057 / 880 / 1154)
+  because each pipeline was run as a separate sequential script
+  execution, not a synchronized multi-system capture — state this
+  explicitly as a methodology note if reviewers ask why frame counts
+  aren't identical across systems for "the same" test.
+
+========================================================================
+DRAFT MANUSCRIPT PARAGRAPH (Results and Discussion — Moving Experiment)
+========================================================================
+
+To evaluate behavior under continuous single-object motion, a pen was
+translated slowly and continuously across the camera field of view via
+a paper-pull method, in contrast to the discrete multi-object
+repositioning used in the multi-object test (Section [Test D]). The
+Always-Classify baseline invoked the classifier on every one of 1,057
+processed frames (100% invocation rate), while the Fixed-Interval
+(N=30) baseline invoked the classifier 30 times across 880 frames
+(3.41%), consistent with its fixed 30-frame schedule. The proposed
+Drift-Triggered system processed 1,154 frames with a single
+classifier invocation (0.09%) — the initial classification at frame
+41 — after which the combined appearance and tracking drift signal
+remained below the 0.4 trigger threshold for the remainder of the
+recording. This reflects the system correctly identifying that
+gradual, continuous motion does not constitute the kind of abrupt
+structural change that warrants re-verification, a behavior distinct
+from its response to discrete disturbance events (Section [Test C]),
+where a comparable drift signal produced a reclassification trigger
+preceding a marked ground-truth crossing event by several frames.
+
+========================================================================

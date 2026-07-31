@@ -1,0 +1,41 @@
+hTEST: Static pen (single pen, untouched, ~44s)
+SYSTEM: pen_detector_fixed.py (drift-triggered, post-queue-fix)
+DATE: 2026-07-16
+
+--- Console summary ---
+Total frames processed: 1309
+Total unique objects tracked: 2 (object 0 = the real pen, tracked continuously
+                                  frame 1-1309; object 1 = brief spurious
+                                  detection, evicted after 26 frames - likely
+                                  incidental noise, not the tracked pen)
+Total classifier invocations: 2
+Invocation rate: 2/1309 = 0.15%
+
+--- Setup notes ---
+Camera: built-in laptop camera
+Lighting: [same as other static tests - keep consistent]
+Background: plain gray/white table surface
+Object: single pen, placed once, untouched for full duration
+Fix applied before this run: single dedicated worker thread + queue for
+model.predict() calls (previously, per-attempt threading.Thread spawning
+caused inference to stall after 1-2 calls, likely a TF/Keras threading
+fragility issue). Also added model warm-up call before the timed loop.
+
+--- Observations ---
+Object 0 tracked continuously for 1307/1309 frames (only 2 isolated frames
+missing from the log - negligible).
+Both classifier invocations completed quickly and cleanly (0.303s, 0.213s) -
+confirms the threading fix resolved the earlier stall.
+appearance_drift stayed near 0 for the entire test (0.0004-0.0008 range) -
+correctly reflects that the pen's visual appearance never changed.
+tracking_drift oscillated between ~0 and ~0.32 due to minor frame-to-frame
+centroid jitter (raw, unsmoothed velocity estimate) - noted as a future
+improvement (proper Kalman filtering), but did NOT cause any false triggers,
+since combined suspicion score stayed below DRIFT_THRESHOLD (0.4) throughout.
+Classification stayed correct (PEN) for the full test after initial settling.
+
+--- Comparison so far (static pen test) ---
+System                | Frames | Invocations | Rate
+Always-classify        | 1325   | 286         | 21.6%
+Fixed-interval (N=30)  | 1375   | 44          | 3.2%
+Drift-triggered (ours) | 1309   | 2           | 0.15%

@@ -1,0 +1,43 @@
+TEST: Multi-pen Dynamic Tracking (2-3 pens with controlled movement, ~45s)
+SYSTEM: pen_detector_fixed.py (drift-triggered, post-queue-fix)
+DATE: 2026-07-20
+
+--- Console summary ---
+Total frames processed: 1391
+Total unique objects tracked: 3 main active targets (plus minor spurious noise/evictions)
+Total classifier invocations: 7
+Invocation rate: 7 / 1391 = 0.50%
+
+--- Setup notes ---
+Camera: built-in laptop camera
+Lighting: Consistent ambient indoor lighting
+Background: Plain gray/white table surface
+Object: Multiple pens (2-3) placed inside the field of view. Controlled sequential movements 
+        applied to individual pens to simulate real-world conveyor/scaling tracking loads.
+Fix applied before this run: Single dedicated worker thread + queue execution pipeline for 
+                             model.predict() calls. Model warm-up call executed before the 
+                             timed loop to prevent cold-start latency spikes.
+
+--- Observations ---
+- Primary targets (Object 0 and Object 2) tracked with continuous identity retention across 
+  the frame limits. 
+- Spurious target anomalies (e.g., Object 3, Object 4) successfully isolated by the Hungarian 
+  matcher and automatically evicted after the 26-frame expiration threshold without compromising 
+  primary ID retention.
+- Baseline architectures show immense compute strain under multi-object loads: Always-Classify 
+  forces parallel classification calls on every frame (~2.00 calls/frame average), creating a 
+  massive bottleneck. Fixed-Interval blind-fires on a static timer pattern regardless of state.
+- Proposed Drift-Triggered system dynamically suppresses evaluation cycles during periods of 
+  stable linear tracking. The framework successfully isolated classifier calls down to exactly 
+  7 strategic updates, which fired exclusively during physical object insertion and structural 
+  orientation changes where tracking/appearance drift thresholds crossed the 0.4 boundary.
+
+--- Performance Comparison (Test D: Multi-Pen Dynamic Evaluation) ---
+System                 | Total Frames | Invocations | Invocation Rate |  
+-----------------------|--------------|-------------|-----------------|----------------------
+Always-Classify        | 1361         | 2715        | 199.48%         |             
+Fixed-Interval (N=30)  | 1357         | 85          | 6.26%           |           
+Drift-Triggered (Ours) | 1391         | 7           | 0.50%           |           
+
+*Note: System throughput (FPS) and tracking latencies are analytically modeled based on the 
+empirically observed baseline tracking cost (10ms/frame) and classifier execution latency (96.7ms/call).

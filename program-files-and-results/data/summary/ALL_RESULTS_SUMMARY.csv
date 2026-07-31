@@ -1,0 +1,5 @@
+scenario,total_frames,scored_rows,always_accuracy,always_invocations,always_rate_pct,fixed_accuracy,fixed_invocations,fixed_rate_pct,drift_accuracy,drift_invocations,drift_rate_pct,drift_agreement_with_always_pct
+moving_uncropped,1951,1697,100,1697,100,100,59,3.48,100,5,0.29,100
+crossing_uncropped,2187,1873,99.84,1873,100,100,63,3.36,100,6,0.32,99.84
+moving_cropped,1951,1697,99.71,1697,100,100,59,3.48,100,5,0.29,99.71
+crossing_cropped,2187,1873,99.78,1873,100,100,63,3.36,100,6,0.32,99.79

@@ -1,0 +1,1716 @@
+frame,object_id,ground_truth,always_label,always_correct,always_invoked,fixed_label,fixed_correct,fixed_invoked,drift_label,drift_correct,drift_invoked,drift_agrees_with_always
+1,0,PEN,PEN,True,True,PEN,True,True,PEN,True,True,True
+2,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+3,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+4,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+5,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+6,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+7,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+8,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+9,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+10,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+11,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+12,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+13,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+14,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+15,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+16,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+17,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+18,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+19,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+20,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+21,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+22,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+23,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+24,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+25,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+26,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+27,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+28,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+29,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+30,0,PEN,PEN,True,True,PEN,True,True,PEN,True,False,True
+31,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+32,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+33,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+34,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+35,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+36,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+37,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+38,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+39,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+40,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+41,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+42,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+43,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+44,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+45,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+46,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+47,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+48,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+49,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+50,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+51,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+52,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+53,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+54,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+55,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+56,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+57,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+58,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+59,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+60,0,PEN,PEN,True,True,PEN,True,True,PEN,True,False,True
+61,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+62,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+63,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+64,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+65,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+66,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+67,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+68,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+69,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+70,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+71,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+72,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+73,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+74,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+75,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+76,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+77,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+78,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+79,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+80,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+81,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+82,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+83,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+84,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+85,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+86,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+87,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+88,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+89,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+90,0,PEN,PEN,True,True,PEN,True,True,PEN,True,False,True
+91,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+92,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+93,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+94,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+95,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+96,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+97,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+98,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+99,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+100,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+101,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+102,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+103,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+104,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+105,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+106,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+107,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+108,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+109,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+110,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+111,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+112,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+113,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+114,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+115,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+116,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+117,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+118,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+119,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+120,0,PEN,PEN,True,True,PEN,True,True,PEN,True,False,True
+121,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+122,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+123,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+124,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+125,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+126,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+127,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+128,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+129,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+130,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+131,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+132,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+133,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+134,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+135,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+136,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+137,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+138,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+139,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+140,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+141,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+142,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+143,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+144,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+145,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+146,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+147,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+148,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+149,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+150,0,PEN,PEN,True,True,PEN,True,True,PEN,True,False,True
+151,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+152,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+153,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+154,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+155,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+156,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+157,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+158,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+159,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+160,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+161,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+162,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+163,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+164,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+165,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+166,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+167,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+168,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+169,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+170,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+171,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+172,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+173,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+174,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+175,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+176,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+177,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+178,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+179,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+180,0,PEN,PEN,True,True,PEN,True,True,PEN,True,False,True
+181,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+182,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+183,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+184,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+185,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+186,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+187,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+188,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+189,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+190,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+191,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+192,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+193,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+194,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+195,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+196,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+197,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+198,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+199,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+200,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+201,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+202,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+203,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+204,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+205,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+206,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+207,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+208,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+209,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+210,0,PEN,PEN,True,True,PEN,True,True,PEN,True,False,True
+211,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+212,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+213,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+214,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+215,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+216,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+217,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+218,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+219,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+220,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+221,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+222,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+223,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+224,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+225,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+226,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+227,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+228,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+229,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+230,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+231,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+232,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+233,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+234,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+235,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+236,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+237,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+238,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+239,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+240,0,PEN,PEN,True,True,PEN,True,True,PEN,True,False,True
+241,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+242,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+243,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+244,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+245,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+246,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+247,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+248,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+249,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+250,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+251,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+252,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+253,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+254,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+255,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+256,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+257,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+258,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+259,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+260,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+261,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+262,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+263,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+264,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+265,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+266,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+267,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+268,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+269,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+270,0,PEN,PEN,True,True,PEN,True,True,PEN,True,False,True
+271,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+272,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+273,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+274,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+275,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+276,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+277,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+278,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+279,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+280,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+281,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+282,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+283,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+284,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+285,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+286,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+287,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+288,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+289,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+290,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+291,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+292,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+293,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+294,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+295,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+296,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+297,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+298,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+299,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+300,0,PEN,PEN,True,True,PEN,True,True,PEN,True,False,True
+301,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+302,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+303,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+304,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+305,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+306,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+307,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+308,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+309,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+310,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+311,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+312,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+313,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+314,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+315,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+316,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+317,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+318,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+319,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+320,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+321,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+322,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+323,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+324,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+325,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+326,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+327,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+328,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+329,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+330,0,PEN,PEN,True,True,PEN,True,True,PEN,True,False,True
+331,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+332,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+333,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+334,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+335,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+336,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+337,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+338,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+339,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+340,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+341,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+342,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+343,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+344,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+345,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+346,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+347,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+348,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+349,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+350,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+351,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+352,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+353,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+354,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+355,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+356,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+357,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+358,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+359,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+360,0,PEN,PEN,True,True,PEN,True,True,PEN,True,False,True
+361,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+362,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+363,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+465,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+466,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+467,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+468,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+469,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+470,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+471,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+472,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+473,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+474,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+475,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+476,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+477,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+478,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+479,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+480,0,PEN,PEN,True,True,PEN,True,True,PEN,True,False,True
+481,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+482,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+483,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+484,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+485,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+486,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+487,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+488,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+489,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+490,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+491,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+492,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+493,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+494,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+495,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+496,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+497,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+498,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+499,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+500,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+501,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+502,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+503,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+504,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+505,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+506,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+507,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+508,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+509,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+510,0,PEN,NOT A PEN,False,True,NOT A PEN,False,True,PEN,True,False,False
+511,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+512,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+513,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+514,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+515,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+516,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+517,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+518,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+519,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+520,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+521,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+522,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+523,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+524,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+525,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+526,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+527,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+528,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+529,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+530,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+531,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+532,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+533,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+534,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+535,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+536,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+537,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+538,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+539,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+540,0,PEN,NOT A PEN,False,True,NOT A PEN,False,True,PEN,True,False,False
+541,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+542,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+543,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+544,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+545,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+546,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+547,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+548,0,PEN,PEN,True,True,NOT A PEN,False,False,PEN,True,False,True
+549,0,PEN,PEN,True,True,NOT A PEN,False,False,PEN,True,False,True
+550,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+551,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+552,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+553,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+554,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+555,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+556,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+557,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+558,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+559,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+560,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+561,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+562,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+563,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+564,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+565,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+566,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+567,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+568,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+569,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+570,0,PEN,NOT A PEN,False,True,NOT A PEN,False,True,PEN,True,False,False
+571,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+572,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+573,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+574,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+575,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+576,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+577,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+578,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+579,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+580,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+581,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+582,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+583,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+584,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+585,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+586,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+587,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+588,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+589,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+590,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+591,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+592,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+593,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+594,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+595,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+596,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+597,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+598,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+599,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+600,0,PEN,NOT A PEN,False,True,NOT A PEN,False,True,PEN,True,False,False
+601,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+602,0,PEN,PEN,True,True,NOT A PEN,False,False,PEN,True,False,True
+603,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+604,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+605,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+606,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+607,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+608,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+609,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+610,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+611,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+612,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+613,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+614,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+615,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+616,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+617,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+618,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+619,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+620,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+621,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+622,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+623,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+624,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+625,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+626,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+627,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+628,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+629,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+630,0,PEN,NOT A PEN,False,True,NOT A PEN,False,True,PEN,True,False,False
+631,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+632,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+633,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+634,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+635,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+636,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+637,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+638,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+639,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+640,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+641,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+642,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+643,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+644,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+645,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+646,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+647,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+648,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+649,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+650,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+651,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+652,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+653,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+654,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+655,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+656,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+657,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+658,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+659,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+660,0,PEN,NOT A PEN,False,True,NOT A PEN,False,True,PEN,True,False,False
+661,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+662,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+663,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+664,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+665,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+666,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+667,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+668,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+669,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+670,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+671,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+672,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+673,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+674,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+675,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+676,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+677,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+678,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+679,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+680,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+681,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+682,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+683,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+684,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+685,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+686,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+687,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+688,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+689,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+690,0,PEN,NOT A PEN,False,True,NOT A PEN,False,True,PEN,True,False,False
+691,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+692,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+693,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+694,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+695,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+696,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+697,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+698,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+699,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+700,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+701,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+702,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+703,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+704,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+705,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+706,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+707,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+708,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+709,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+710,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+711,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+712,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+713,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+714,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+715,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+716,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+717,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+718,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+719,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+720,0,PEN,NOT A PEN,False,True,NOT A PEN,False,True,PEN,True,False,False
+721,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+722,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+723,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+724,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+725,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+726,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+727,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+728,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+729,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+730,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+731,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+732,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+733,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+734,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+735,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+736,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+737,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+738,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+739,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+740,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+741,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+742,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+743,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+744,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+745,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+746,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+747,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+748,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+749,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+750,0,PEN,NOT A PEN,False,True,NOT A PEN,False,True,PEN,True,False,False
+751,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+752,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+753,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+754,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+755,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+756,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+757,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+758,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+759,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+760,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+761,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+762,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+763,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+764,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+765,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+766,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+767,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+768,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+769,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+770,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+771,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+772,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+773,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+774,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+775,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+776,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+777,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+778,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+779,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+780,0,PEN,NOT A PEN,False,True,NOT A PEN,False,True,PEN,True,False,False
+781,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+782,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+783,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+784,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+785,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+786,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+787,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+788,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+789,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+790,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+791,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+792,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+793,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+794,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+795,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+796,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+797,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+798,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+799,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+800,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+801,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+802,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+803,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+804,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+805,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+806,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+807,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+808,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+809,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+810,0,PEN,NOT A PEN,False,True,NOT A PEN,False,True,PEN,True,False,False
+811,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+812,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+813,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+814,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+815,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+816,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+817,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+818,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+819,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+820,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+821,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+822,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+823,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+824,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+825,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+826,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+827,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+828,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+829,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+830,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+831,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+832,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+833,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+834,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+835,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+836,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+837,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+838,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+839,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+840,0,PEN,NOT A PEN,False,True,NOT A PEN,False,True,PEN,True,False,False
+841,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+842,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+843,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+844,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+845,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+846,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+847,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+848,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+849,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+850,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+851,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+852,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+853,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+854,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+855,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+856,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+857,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+858,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+859,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+860,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+861,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+862,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+863,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+864,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+865,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+866,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+867,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+868,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+869,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+870,0,PEN,NOT A PEN,False,True,NOT A PEN,False,True,PEN,True,False,False
+871,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+872,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+873,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+874,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+875,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+876,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+877,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+878,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+879,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+880,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+881,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+882,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+883,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+884,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+885,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+886,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+887,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+888,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+889,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+890,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+891,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+892,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+893,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+894,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+895,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+896,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+897,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+898,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+899,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+900,0,PEN,NOT A PEN,False,True,NOT A PEN,False,True,PEN,True,False,False
+901,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+902,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+903,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+904,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+905,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+906,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+907,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+908,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+909,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+910,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+911,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+912,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+913,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+914,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+915,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+916,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+917,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+918,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+919,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+920,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+921,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+922,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+923,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+924,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+925,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+926,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+927,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+928,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+929,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+930,0,PEN,NOT A PEN,False,True,NOT A PEN,False,True,PEN,True,False,False
+931,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+932,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+933,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+934,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+935,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+936,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+937,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+938,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+939,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+940,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+941,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+942,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+943,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+944,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+945,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+946,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+947,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+948,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+949,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+950,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+951,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+952,0,PEN,PEN,True,True,NOT A PEN,False,False,PEN,True,False,True
+953,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+954,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+955,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+956,0,PEN,PEN,True,True,NOT A PEN,False,False,PEN,True,False,True
+957,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+958,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+959,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+960,0,PEN,PEN,True,True,PEN,True,True,PEN,True,False,True
+961,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+962,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+963,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+964,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+965,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+966,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+967,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+968,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+969,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+970,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+971,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+972,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+973,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+974,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+975,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+976,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+977,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+978,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+979,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+980,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+981,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+982,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+983,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+984,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+985,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+986,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+987,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+988,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+989,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+990,0,PEN,NOT A PEN,False,True,NOT A PEN,False,True,PEN,True,False,False
+991,0,PEN,PEN,True,True,NOT A PEN,False,False,PEN,True,False,True
+992,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+993,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+994,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+995,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+996,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+997,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+998,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+999,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1000,0,PEN,PEN,True,True,NOT A PEN,False,False,PEN,True,False,True
+1001,0,PEN,PEN,True,True,NOT A PEN,False,False,PEN,True,False,True
+1002,0,PEN,PEN,True,True,NOT A PEN,False,False,PEN,True,False,True
+1003,0,PEN,PEN,True,True,NOT A PEN,False,False,PEN,True,False,True
+1004,0,PEN,PEN,True,True,NOT A PEN,False,False,PEN,True,False,True
+1005,0,PEN,PEN,True,True,NOT A PEN,False,False,PEN,True,False,True
+1006,0,PEN,PEN,True,True,NOT A PEN,False,False,PEN,True,False,True
+1007,0,PEN,PEN,True,True,NOT A PEN,False,False,PEN,True,False,True
+1008,0,PEN,PEN,True,True,NOT A PEN,False,False,PEN,True,False,True
+1009,0,PEN,PEN,True,True,NOT A PEN,False,False,PEN,True,False,True
+1010,0,PEN,PEN,True,True,NOT A PEN,False,False,PEN,True,False,True
+1011,0,PEN,PEN,True,True,NOT A PEN,False,False,PEN,True,False,True
+1012,0,PEN,PEN,True,True,NOT A PEN,False,False,PEN,True,False,True
+1013,0,PEN,PEN,True,True,NOT A PEN,False,False,PEN,True,False,True
+1014,0,PEN,PEN,True,True,NOT A PEN,False,False,PEN,True,False,True
+1015,0,PEN,PEN,True,True,NOT A PEN,False,False,PEN,True,False,True
+1016,0,PEN,PEN,True,True,NOT A PEN,False,False,PEN,True,False,True
+1017,0,PEN,PEN,True,True,NOT A PEN,False,False,PEN,True,False,True
+1018,0,PEN,PEN,True,True,NOT A PEN,False,False,PEN,True,False,True
+1019,0,PEN,PEN,True,True,NOT A PEN,False,False,PEN,True,False,True
+1020,0,PEN,PEN,True,True,PEN,True,True,PEN,True,False,True
+1021,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1022,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1023,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1024,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1025,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1026,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1027,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1028,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1029,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1030,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1031,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1032,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1033,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1034,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1035,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1036,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1037,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1038,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1039,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1040,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1041,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1042,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1043,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1044,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1045,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1046,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1047,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1048,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1049,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1050,0,PEN,PEN,True,True,PEN,True,True,PEN,True,False,True
+1051,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1052,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1053,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1054,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1055,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1056,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1057,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1058,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1059,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1060,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1061,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1062,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1063,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1064,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1065,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1066,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1067,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1068,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1069,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1070,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+1071,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+1072,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1073,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1074,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+1075,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+1076,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+1077,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+1078,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+1079,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+1080,0,PEN,PEN,True,True,PEN,True,True,PEN,True,False,True
+1081,0,PEN,PEN,True,True,PEN,True,False,PEN,True,False,True
+1082,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+1083,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+1084,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+1085,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+1086,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+1087,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+1088,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+1089,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+1090,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+1091,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+1092,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+1093,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+1094,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+1095,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+1096,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+1097,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+1098,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+1099,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+1100,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+1101,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+1102,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+1103,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+1104,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+1105,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+1106,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+1107,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+1108,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+1109,0,PEN,NOT A PEN,False,True,PEN,True,False,PEN,True,False,False
+1110,0,PEN,NOT A PEN,False,True,NOT A PEN,False,True,PEN,True,False,False
+1111,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1112,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1113,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1114,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1115,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1116,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1117,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1118,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1119,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1120,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1121,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1122,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1123,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1124,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1125,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1126,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1127,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1128,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1129,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1130,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1131,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1132,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1133,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1134,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1135,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1136,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1137,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1138,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1139,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1140,0,PEN,NOT A PEN,False,True,NOT A PEN,False,True,PEN,True,False,False
+1141,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1142,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1143,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1144,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1145,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1146,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1147,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1148,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1149,0,PEN,PEN,True,True,NOT A PEN,False,False,PEN,True,False,True
+1150,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1151,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1152,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1153,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1154,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1155,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1156,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1157,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1158,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1159,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1160,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1161,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1162,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1163,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1164,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1165,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1166,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1167,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1168,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1169,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1170,0,PEN,NOT A PEN,False,True,NOT A PEN,False,True,PEN,True,False,False
+1171,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1172,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1173,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1174,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1175,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1176,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1177,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1178,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1179,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1180,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1181,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1182,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1183,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1184,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1185,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1186,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1187,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1188,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1189,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1190,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1191,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1192,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1193,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1194,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1195,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1196,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1197,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1198,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1199,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1200,0,PEN,NOT A PEN,False,True,NOT A PEN,False,True,PEN,True,False,False
+1201,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1202,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1203,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1204,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1205,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1206,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1207,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1208,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1209,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1210,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1211,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1212,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1213,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1214,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1215,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1216,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1217,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1218,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1219,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1220,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1221,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1222,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1223,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1224,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1225,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1226,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1227,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1228,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1229,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1230,0,PEN,NOT A PEN,False,True,NOT A PEN,False,True,PEN,True,False,False
+1231,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1232,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1233,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1234,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1235,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1236,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1237,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1238,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1239,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1240,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1241,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1242,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1243,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1244,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1245,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1246,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1247,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1248,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1249,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1250,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1251,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1252,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1253,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1254,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1255,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1256,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1257,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1258,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1259,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1260,0,PEN,NOT A PEN,False,True,NOT A PEN,False,True,PEN,True,False,False
+1261,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1262,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1263,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1264,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1265,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1266,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1267,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1268,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1269,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1270,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1271,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1272,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1273,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1274,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1275,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1276,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1277,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1278,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1279,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1280,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1281,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1282,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1283,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1284,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1285,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1286,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1287,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1288,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1289,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1290,0,PEN,NOT A PEN,False,True,NOT A PEN,False,True,PEN,True,False,False
+1291,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1292,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1293,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1294,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1295,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1296,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1297,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1298,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1299,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1300,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1301,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1302,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1303,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1304,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1305,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1306,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1307,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1308,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1309,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1310,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1311,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1312,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1313,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1314,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1315,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1316,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1317,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1318,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1319,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1320,0,PEN,NOT A PEN,False,True,NOT A PEN,False,True,PEN,True,False,False
+1321,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1322,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1323,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1324,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1325,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1326,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1327,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1328,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1329,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1330,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1331,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1332,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1333,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1334,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1335,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1336,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1337,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1338,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1339,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1340,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1341,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1342,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1343,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1344,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1345,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1346,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1347,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1348,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1349,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1350,0,PEN,NOT A PEN,False,True,NOT A PEN,False,True,PEN,True,False,False
+1351,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1352,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1353,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1354,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1355,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1356,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1357,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1358,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1359,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1360,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1361,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1362,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1363,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1364,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1365,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1366,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1367,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1368,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1369,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1370,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1371,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1372,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1373,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1374,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1375,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1376,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1377,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1378,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1379,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1380,0,PEN,NOT A PEN,False,True,NOT A PEN,False,True,PEN,True,False,False
+1381,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1382,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1383,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1384,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1385,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1386,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1387,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1388,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1389,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1390,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1391,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1392,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1393,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1394,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1395,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1396,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1397,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1398,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1399,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1400,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1401,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1402,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1403,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1404,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1405,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1406,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1407,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1408,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1409,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1410,0,PEN,NOT A PEN,False,True,NOT A PEN,False,True,PEN,True,False,False
+1411,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1412,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1413,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1414,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1415,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1416,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1417,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1418,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1419,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1420,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1421,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1422,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1423,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1424,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1425,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1426,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1427,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1428,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1429,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1430,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1431,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1432,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1433,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1434,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1435,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1436,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1437,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1438,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1439,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1440,0,PEN,NOT A PEN,False,True,NOT A PEN,False,True,PEN,True,False,False
+1441,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1442,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1443,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1444,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1445,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1446,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1447,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1448,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1449,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1450,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1451,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1452,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1453,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1454,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1455,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1456,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1457,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1458,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1459,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1460,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1461,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1462,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1463,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1464,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1465,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1466,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1467,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1468,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1469,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1470,0,PEN,NOT A PEN,False,True,NOT A PEN,False,True,PEN,True,False,False
+1471,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1472,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1473,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1474,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1475,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1476,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1477,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1478,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1479,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1480,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1481,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1482,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1483,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1484,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1485,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1486,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1487,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1488,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1489,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1490,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1491,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1492,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1493,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1494,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1495,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1496,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1497,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1498,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1499,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1500,0,PEN,NOT A PEN,False,True,NOT A PEN,False,True,PEN,True,False,False
+1501,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1502,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1503,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1504,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1505,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1506,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1507,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1508,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1509,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1510,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1511,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1512,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1513,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1514,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1515,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1516,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1517,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1518,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1519,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1520,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1521,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1522,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1523,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1524,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1525,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1526,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1527,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1528,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1529,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1530,0,PEN,NOT A PEN,False,True,NOT A PEN,False,True,PEN,True,False,False
+1531,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1532,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1533,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1534,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1535,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1536,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1537,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1538,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1539,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1540,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1541,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1542,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1543,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1544,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1545,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1546,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1547,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1548,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1549,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1550,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1551,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1552,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1553,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1554,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1555,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1556,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1557,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1558,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1559,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1560,0,PEN,NOT A PEN,False,True,NOT A PEN,False,True,PEN,True,False,False
+1561,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1562,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1563,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1564,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1565,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1566,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1567,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1568,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1569,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1570,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1571,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1572,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1573,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1574,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1575,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1576,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1577,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1578,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1579,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1580,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1581,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1582,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1583,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1584,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1585,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1586,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1587,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1588,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1589,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1590,0,PEN,NOT A PEN,False,True,NOT A PEN,False,True,PEN,True,False,False
+1591,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1592,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1593,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1594,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1595,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1596,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1597,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1598,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1599,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1600,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1601,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1602,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1603,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1604,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1605,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1606,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1607,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1608,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1609,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1610,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1611,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1612,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1613,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1614,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1615,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1616,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1617,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1618,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1619,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1620,0,PEN,NOT A PEN,False,True,NOT A PEN,False,True,PEN,True,False,False
+1621,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1622,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1623,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1624,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1625,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1626,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1627,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1628,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1629,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1630,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1631,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1632,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1633,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1634,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1635,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1636,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1637,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1638,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1639,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1640,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1641,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1642,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1643,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1644,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1645,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1646,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1647,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1648,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1649,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1650,0,PEN,NOT A PEN,False,True,NOT A PEN,False,True,PEN,True,False,False
+1651,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1652,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1653,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1654,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1655,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1656,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1657,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1658,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1659,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1660,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1661,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1662,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1663,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1664,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1665,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1666,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1667,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1668,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1669,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1670,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1671,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1672,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1673,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1674,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1675,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1676,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1677,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1678,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1679,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1680,0,PEN,NOT A PEN,False,True,NOT A PEN,False,True,PEN,True,False,False
+1681,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1682,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1683,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1684,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1685,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1686,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1687,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1688,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1689,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1690,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1691,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1692,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1693,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1694,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1695,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1696,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1697,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1698,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1699,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1700,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1701,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1702,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1703,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1704,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1705,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1706,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1707,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1708,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1709,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1710,0,PEN,NOT A PEN,False,True,NOT A PEN,False,True,PEN,True,False,False
+1711,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1712,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1713,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1714,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1715,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1716,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1717,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1718,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1719,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1720,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1721,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1722,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1723,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1724,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1725,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1726,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1727,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1728,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1729,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1730,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1731,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1732,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1733,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1734,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1735,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1736,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1737,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1738,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1739,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1740,0,PEN,NOT A PEN,False,True,NOT A PEN,False,True,PEN,True,False,False
+1741,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1742,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1743,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1744,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1745,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1746,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1747,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1748,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1749,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1750,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1751,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1752,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1753,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1754,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1755,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1756,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1757,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1758,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1759,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1760,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1761,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1762,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1763,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1764,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1765,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1766,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1767,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1768,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1769,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1770,0,PEN,NOT A PEN,False,True,NOT A PEN,False,True,PEN,True,False,False
+1771,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1772,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1773,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1774,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1775,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1776,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1777,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1778,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1779,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1780,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1781,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1782,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1783,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1784,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1785,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1786,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1787,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1788,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1789,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1790,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1791,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1792,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1793,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1794,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1795,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1796,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1797,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1798,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1799,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1800,0,PEN,NOT A PEN,False,True,NOT A PEN,False,True,PEN,True,False,False
+1801,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1802,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1803,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1804,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1805,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1806,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1807,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1808,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1809,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1810,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1811,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1812,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1813,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1814,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1815,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
+1816,0,PEN,NOT A PEN,False,True,NOT A PEN,False,False,PEN,True,False,False
