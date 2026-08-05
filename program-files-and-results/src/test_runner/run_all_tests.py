@@ -50,6 +50,7 @@ W_TRACKING = 0.4
 DRIFT_THRESHOLD = 0.4
 HYSTERESIS_FRAMES = 3
 FIXED_INTERVAL = 30
+CONFIDENCE_THRESHOLD = 0.15  # if |conf - 0.5| < this, the last classification was too unsure to trust
 
 
 def calculate_histogram(roi):
@@ -150,7 +151,7 @@ def classify(model, roi, preprocess_input):
     arr = np.expand_dims(img, axis=0).astype("float32")
     arr = preprocess_input(arr)
     conf = model.predict(arr, verbose=0)[0][0]
-    return "PEN" if conf < 0.5 else "NOT A PEN"
+    return ("PEN" if conf < 0.5 else "NOT A PEN"), conf
 
 
 def run_single_test(video_path, model, preprocess_input, scenario_name, occluded_spec, out_path):
@@ -170,6 +171,7 @@ def run_single_test(video_path, model, preprocess_input, scenario_name, occluded
     ref_hist_drift = {}
     consec_high = defaultdict(int)
     never_classified_drift = set()
+    last_confidence_drift = {}
 
     rows = []
     frame_idx = 0
@@ -238,14 +240,14 @@ def run_single_test(video_path, model, preprocess_input, scenario_name, occluded
             if roi.size == 0:
                 continue
 
-            always_lbl = classify(model, roi, preprocess_input)
+            always_lbl, _ = classify(model, roi, preprocess_input)
             total_invocations["always"] += 1
             displayed_label["always"][oid] = always_lbl
             always_invoked = True
 
             fixed_invoked = (oid not in displayed_label["fixed"]) or (frame_idx % FIXED_INTERVAL == 0)
             if fixed_invoked:
-                displayed_label["fixed"][oid] = classify(model, roi, preprocess_input)
+                displayed_label["fixed"][oid], _ = classify(model, roi, preprocess_input)
                 total_invocations["fixed"] += 1
 
             if oid in ref_hist_drift:
@@ -269,12 +271,15 @@ def run_single_test(video_path, model, preprocess_input, scenario_name, occluded
                 consec_high[oid] = 0
 
             never_classified = oid not in never_classified_drift
-            drift_invoked = never_classified or (consec_high[oid] >= HYSTERESIS_FRAMES)
+            low_confidence = (oid in last_confidence_drift and
+                               abs(last_confidence_drift[oid] - 0.5) < CONFIDENCE_THRESHOLD)
+            drift_invoked = never_classified or (consec_high[oid] >= HYSTERESIS_FRAMES) or low_confidence
             if drift_invoked:
                 ref_hist_drift[oid] = calculate_histogram(roi)
                 never_classified_drift.add(oid)
                 consec_high[oid] = 0
-                displayed_label["drift"][oid] = classify(model, roi, preprocess_input)
+                displayed_label["drift"][oid], conf = classify(model, roi, preprocess_input)
+                last_confidence_drift[oid] = conf
                 total_invocations["drift"] += 1
 
             rows.append({
